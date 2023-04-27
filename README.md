@@ -1,6 +1,7 @@
 # Skin-Disease-Image-Classifier-for-Accurate-and-Accessible-Diagnosis
 
-![Logo](Readme_pictures\1.png)
+![1](https://user-images.githubusercontent.com/98489395/235007226-76b8aec2-796f-42b1-a0dd-6880e78322a1.png)
+
 
 ## Prerequisites
 
