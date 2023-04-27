@@ -37,7 +37,8 @@ The model will be evaluated based on the accuracy. The accuracy will indicate th
 ## Web Application:
 
 The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will be built using Flask, a Python-based web framework, and deployed on a cloud platform such as AWS or Heroku.
-![website](Readme_pictures\frontpage_website.png)
+
+<img width="949" alt="frontpage_website" src="https://user-images.githubusercontent.com/98489395/235007469-93d33cf4-d514-4ffe-a751-5fe49ccb2d5c.png">
 !(https://skin-disease-project-384422.uc.r.appspot.com/)
 ## Authors
 
