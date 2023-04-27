@@ -1,6 +1,6 @@
 # Skin-Disease-Image-Classifier-for-Accurate-and-Accessible-Diagnosis
 
-![Logo](Skin-Disease-Image-Classifier-for-Accurate-and-Accessible-Diagnosis\Readme_pictures\1.png)
+![Logo](Readme_pictures\1.png)
 
 ## Prerequisites
 1. Python: 3.11.2
