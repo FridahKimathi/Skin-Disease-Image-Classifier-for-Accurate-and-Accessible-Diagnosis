@@ -1,14 +1,14 @@
 # Skin-Disease-Image-Classifier-for-Accurate-and-Accessible-Diagnosis
 
-1. Prerequisites
-2. Python Programming Language
-3. Deep Learning Frameworks
-4. Data Scrapping Skills
-5. Data Preprocessing Skills
-6. GPU
-7. Development Environment
-8. Dataset
-9. Access to Cloud Computing Services
+## Prerequisites
+1. Python: 3.11.2
+2. Deep Learning Frameworks: TensorFlow or PyTorch
+3. Data Scrapping: Selenium
+4. Data Preprocessing: data cleaning, data augmentation and data normalization 
+5. GPU(optonal)
+6. Development Environment: conda 23.3.3
+7. DatasetDermNet NZ Image Library and ISIC 2019 Challenge
+8. Access to Cloud Computing Services: Google colab
 
 ## Introduction:
 This project aims to develop a skin disease image classifier using machine learning algorithms to accurately diagnose and classify skin diseases. The objective is to provide a user-friendly platform that improves accessibility and affordability of dermatological care, while also aiding dermatologists in their clinical decision-making process and reducing the time it takes to diagnose skin diseases.
@@ -26,4 +26,4 @@ The model architecture will be based on Convolutional Neural Networks (CNNs), a 
 The model will be evaluated based on the accuracy. The accuracy will indicate the proportion of correctly classified skin diseases.
 
 ## Web Application:
-The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will also provide additional information on the specific skin disease, including symptoms, causes, and treatment options. The application will be built using Flask, a Python-based web framework, and deployed on a cloud platform such as AWS or Heroku.
+The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will be built using Flask, a Python-based web framework, and deployed on a cloud platform such as AWS or Heroku.
