@@ -11,7 +11,7 @@
 4. Data Preprocessing: data cleaning, data augmentation and data normalization
 5. GPU(optonal)
 6. Development Environment: conda 23.3.3
-7. DatasetDermNet NZ Image Library and ISIC 2019 Challenge
+7. Dataset: [DermNet NZ Image Library](https://github.com/FridahKimathi) and [DermNet NZ Image Library](https://github.com/FridahKimathi)
 8. Access to Cloud Computing Services: Google colab
 
 ## Introduction:
@@ -20,7 +20,18 @@ This project aims to develop a skin disease image classifier using machine learn
 
 ## Data Sources:
 
-The dataset used for this project will be sourced from two primary websites - DermNet NZ Image Library and ISIC 2019 Challenge. DermNet NZ Image Library contains a vast collection of clinical images of various skin conditions, while the ISIC 2019 Challenge dataset focuses on the detection of melanoma and benign skin lesions. The combination of these datasets will provide a diverse range of skin conditions for the image classifier to learn from.
+The dataset used for this project will be sourced from two primary websites - [DermNet NZ Image Library](https://github.com/FridahKimathi) and [DermNet NZ Image Library](https://github.com/FridahKimathi). DermNet NZ Image Library contains a vast collection of clinical images of various skin conditions, while the ISIC 2019 Challenge dataset focuses on the detection of melanoma and benign skin lesions. The combination of these datasets will provide a diverse range of skin conditions for the image classifier to learn from.
+
+## Focus Diseases
+1. Acne
+2. Atopic dermatitis(Eczema)
+3. Actinic keratosis
+4. Benign Keratosis-like Lesions
+5. Melanoma
+6. Psoriasis
+7. Basal cell carcinoma
+8. Tinea
+
 
 ## Data Preprocessing:
 
@@ -39,7 +50,14 @@ The model will be evaluated based on the accuracy. The accuracy will indicate th
 The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will be built using Flask, a Python-based web framework, and deployed on a cloud platform such as AWS or Heroku.
 
 <img width="949" alt="frontpage_website" src="https://user-images.githubusercontent.com/98489395/235007469-93d33cf4-d514-4ffe-a751-5fe49ccb2d5c.png">
+
 !(https://skin-disease-project-384422.uc.r.appspot.com/)
+
+
+## Demo
+
+Insert gif or link to demo
+
 ## Authors
 
 - [@Fridah Kimathi](https://github.com/FridahKimathi)
