@@ -2,6 +2,17 @@
 
 ![1](https://user-images.githubusercontent.com/98489395/235007226-76b8aec2-796f-42b1-a0dd-6880e78322a1.png)
 
+Table of Contents
+Prerequisites
+Introduction
+Data Sources
+Focus Diseases
+Data Preprocessing
+Model Architecture
+Model Evaluation
+Web Application
+Demo
+Authors
 
 ## Prerequisites
 
@@ -44,6 +55,9 @@ The model architecture will be based on Convolutional Neural Networks (CNNs), a 
 ## Model Evaluation:
 
 The model will be evaluated based on the accuracy. The accuracy will indicate the proportion of correctly classified skin diseases.
+
+<img width="869" alt="modelling" src="https://user-images.githubusercontent.com/98489395/235009261-64dcced3-d3b7-46e7-b3f7-303ce5fb1e92.png">
+
 
 ## Web Application:
 
