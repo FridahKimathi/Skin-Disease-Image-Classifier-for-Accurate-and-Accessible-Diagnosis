@@ -22,7 +22,7 @@ Authors
 4. Data Preprocessing: data cleaning, data augmentation and data normalization
 5. GPU(optonal)
 6. Development Environment: conda 23.3.3
-7. Dataset: [DermNet NZ Image Library](https://github.com/FridahKimathi) and [DermNet NZ Image Library](https://github.com/FridahKimathi)
+7. Dataset: [DermNet NZ Image Library](https://dermnetnz.org/image-library) and [ISIC 2019 Challenge](https://challenge.isic-archive.com/data/#2019)
 8. Access to Cloud Computing Services: Google colab
 
 ## Introduction:
@@ -31,7 +31,7 @@ This project aims to develop a skin disease image classifier using machine learn
 
 ## Data Sources:
 
-The dataset used for this project will be sourced from two primary websites - [DermNet NZ Image Library](https://github.com/FridahKimathi) and [DermNet NZ Image Library](https://github.com/FridahKimathi). DermNet NZ Image Library contains a vast collection of clinical images of various skin conditions, while the ISIC 2019 Challenge dataset focuses on the detection of melanoma and benign skin lesions. The combination of these datasets will provide a diverse range of skin conditions for the image classifier to learn from.
+The dataset used for this project will be sourced from two primary websites - [DermNet NZ Image Library](https://dermnetnz.org/image-library) and [ISIC 2019 Challenge](https://challenge.isic-archive.com/data/#2019). DermNet NZ Image Library contains a vast collection of clinical images of various skin conditions, while the ISIC 2019 Challenge dataset focuses on the detection of melanoma and benign skin lesions. The combination of these datasets will provide a diverse range of skin conditions for the image classifier to learn from.
 
 ## Focus Diseases
 1. Acne
@@ -56,12 +56,12 @@ The model architecture will be based on Convolutional Neural Networks (CNNs), a 
 
 The model will be evaluated based on the accuracy. The accuracy will indicate the proportion of correctly classified skin diseases.
 
-<img width="869" alt="modelling" src="https://user-images.githubusercontent.com/98489395/235009261-64dcced3-d3b7-46e7-b3f7-303ce5fb1e92.png">
+<img width="869" alt="modeling" src="https://user-images.githubusercontent.com/98489395/235009261-64dcced3-d3b7-46e7-b3f7-303ce5fb1e92.png">
 
 
 ## Web Application:
 
-The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will be built using Flask, a Python-based web framework, and deployed on a cloud platform such as AWS or Heroku.
+The image classifier will be integrated into a web application that allows users to upload images of their skin diseases and receive a diagnosis. The application will be built using Flask, a Python-based web framework, and deployed on Google cloud platform.
 
 <img width="949" alt="frontpage_website" src="https://user-images.githubusercontent.com/98489395/235007469-93d33cf4-d514-4ffe-a751-5fe49ccb2d5c.png">
 
