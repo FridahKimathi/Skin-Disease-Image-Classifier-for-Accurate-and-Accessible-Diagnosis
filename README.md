@@ -18,6 +18,10 @@ Table of Contents
  * [Model Evaluation](#Model-Evaluation)
  * [Web Application](#Web-Application)
  * [Demo](#Demo)
+ * [Conclusion](#Conclusion)
+ * [Limitations](#Limitations)
+ * [Recommendations](#Recommendations)
+ * [Future Work](#Future-Work)
  * [For More Information](#For-More-Information)
  * [Repository Structure](#Repository-Structure)
 
@@ -123,5 +127,5 @@ We appreciate your decision to use our skin disease image classifier, and we hop
 ├── website
 ├── DermaAI.ipynb
 ├── README.md
-├── Skin_Image_Classifier_Presentation.pdf
-```# Derma-AI-Skin-Disease-Image-Classifier-for-Accurate-and-Accessible-Diagnosis
+└── Skin_Image_Classifier_Presentation.pdf
+```
