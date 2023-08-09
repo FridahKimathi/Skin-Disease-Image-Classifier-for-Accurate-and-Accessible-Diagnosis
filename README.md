@@ -1,7 +1,7 @@
 
 # **Derma AI: Skin Disease Image Classifier for Accurate and Accessible Diagnosis**
 
-<img src="Images\Readme_pictures\1.png" alt="Derma AI logo" width="800" height="400">
+<p align="center"> <img src="Images\Readme_pictures\1.png"  alt="Derma AI logo" width="700" height="400"> </p>
 
 #### **Authors**: [Fridah Kimathi](https://github.com/FridahKimathi), [Scholar Chepkirui](https://github.com/Scholarchep), [Amos Kibet](https://github.com/AmosMaru), [Anthony Nene](https://github.com/AnthonyNene-Kiarie), [Eugene Kuloba](https://github.com/eugenekuloba) and [Beth Mithamor](https://github.com/Mythamor)
 
